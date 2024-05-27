@@ -1,2 +1,3 @@
 # LostObjects
 lost objects application where users can search for their lost objects and users who find lost object can also add them ther for their owners con see
+when you run the app for the first time the register new object ui appear. on this ui, there is button "consult all objects " when you click on this button, the page that contain all the objects  appears. but for the first time when glassfish server runs you need to reload the page to view all the objects. there are found in a table.  feel free to reuse this code for futher expirience as we also reuse some code provided by the teacher. but application was developed in 3 days and performs all what was requested of us that is (CRUD)
